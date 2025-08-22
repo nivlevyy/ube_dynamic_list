@@ -1,2 +1,1 @@
-dynamic list readme
-sdffs
+dynamic list 
